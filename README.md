@@ -118,9 +118,9 @@ To run the project, execute the following command:
 
 👤 **Etsubdink Demeke**
 
-- GitHub: [github](https://github.com/Etsubdink-Demeke)
+- GitHub: [github](https://github.com/Etsubdink-Demeke12)
 - Twitter: [Twitter](https://twitter.com/DemekeEtsu40085)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/etsubdink-demeke-018368226/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/etsubdink-demeke-7408412a1/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
